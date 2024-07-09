@@ -25,7 +25,8 @@ class MainActivity : AppCompatActivity() {
         print("L2")
         print("L2")
         print("L4")
-        print("Android dev")
+        print("Android deb")
         print("Experimental")
+        print("SoluLab")
     }
 }
