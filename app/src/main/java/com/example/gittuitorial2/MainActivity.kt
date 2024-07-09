@@ -18,6 +18,5 @@ class MainActivity : AppCompatActivity() {
         }
 
         print("Joydeep Paul")
-        hello from team melody
     }
 }
