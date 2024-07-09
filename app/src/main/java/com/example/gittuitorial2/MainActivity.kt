@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
         print("Joydeep Paul")
         print("Android dev")
         print("Experimental")
+        print("SoluLab")
     }
 }
