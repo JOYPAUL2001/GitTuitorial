@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         print("Joydeep Paul")
-        print("Android dev")
+        print("Android deb")
         print("Experimental")
         print("SoluLab")
     }
