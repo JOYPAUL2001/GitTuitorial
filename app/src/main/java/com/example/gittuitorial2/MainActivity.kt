@@ -16,7 +16,8 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-
         print("Joydeep Paul")
+        print("Android dev")
+        print("Experimental")
     }
 }
