@@ -30,5 +30,6 @@ class MainActivity : AppCompatActivity() {
         print("Experimental")
         print("SoluLab")
         print("Hello msg from friend")
+        print("2nd hello from frnd")
     }
 }
