@@ -29,5 +29,6 @@ class MainActivity : AppCompatActivity() {
         print("Android deb")
         print("Experimental")
         print("SoluLab")
+        print("Hello msg from friend")
     }
 }
